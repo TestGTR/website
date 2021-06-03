@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Geotribu</title>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
+    <link>https://static.geotribu.fr/</link>
+    <atom:link href="https://static.geotribu.fr/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Geotribu</managingEditor>
+    
+    <docs>https://github.com/geotribu/website/</docs>
+    <language>fr</language>
+
+    
+    <pubDate>Thu, 03 Jun 2021 15:06:08 -0000</pubDate>
+    <lastBuildDate>Thu, 03 Jun 2021 15:06:08 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v0.16.1</generator>
+
+    
+    
+    <image>
+      <url>https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_64x64.png</url>
+      <title>Geotribu</title>
+      <link>https://static.geotribu.fr/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Test</title>
+      
+      
+      <description>&lt;h1&gt;Test&lt;/h1&gt;</description>
+      <link>https://static.geotribu.fr/articles/2021/test/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 03 Jun 2021 15:05:21 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/test/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/test/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Premiers pas dans la cour des grands</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>Lancement du blog de Geotribu</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-03/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-03/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>WorkShop OpenLayers</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;WorkShop OpenLayers&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 05 novembre 2008&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Logo OpenLayers&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;A quoi sert le meilleur des outils si l&#39;on ne sait pas s&#39;en servir? Cette remarque a longtemps été un des reproches principal à l&#39;encontre de l&#39;OpenSource. Mais depuis les choses ont changé et les projets intéressants sont très souvent accompagnés d&#39;une communauté...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Sortie de la version 3.0.0 de PyWPS</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Sortie de la version 3.0.0 de PyWPS&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 07 novembre 2008&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; PyWPS&lt;/p&gt;
+&lt;p&gt;Grâce au fabuleux travail de Jachym Cepicky et de toute son équipe la release 3.0.0 de PyWPS est enfin &lt;a href=&#34;http://wald.intevation.org/frs/download.php/525/pywps-3.0.0.tar.gz&#34;&gt;téléchargeable&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;Juste pour rappel, PyWPS est une implémentation du protocole &lt;a href=&#34;http://www.opengeospatial.org/standards/requests/28&#34;&gt;Web Processing Service&lt;/a&gt; permettant à votre serveur, à partir d&#39;une si...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>WorkShop Quantum GIS</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;WorkShop Quantum GIS&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 17 novembre 2008&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; QGIS&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo QGIS&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/qgis.png&#34;&gt;{: .img-rdp-news-thumb }&lt;a href=&#34;https://www.qgis.org/&#34;&gt;QGis&lt;/a&gt; est un des logiciels phare du SIG OpenSource. Un des aspects qui a fait sa popularité est la possibilité d&#39;ajouter ses plugins personnels ou ceux développés par la communauté. Mais ces plugins écrits en python peuvent, pour les néophytes, paraîtrent dér...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-17/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-17/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Comparatif des différentes solutions cartographiques Open-Source</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Comparatif des différentes solutions cartographiques Open-Source&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 06 décembre 2008&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Open Source&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo Open Source Initiative&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/opensource.png&#34;&gt;{: .img-rdp-news-thumb } Les offres d&#39;applications, de logiciels, ou de solutions Open-Source sont de plus en plus vastes, au point qu&#39;il est parfois difficile de pouvoir les comparer.&lt;/p&gt;
+&lt;p&gt;Qui d&#39;entre nous ne s&#39;est pas posé la question de savoir quelle lib...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-06/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-06/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-06/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Les données SIG devraient-elles être libres ?</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>Et si les données SIG étaient libres ?</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>GeoExt, le mariage de l&#39;IHM et de la cartographie</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;GeoExt, le mariage de l&#39;IHM et de la cartographie&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 11 décembre 2008&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoExtJS&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo GeoExt&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/geoext.png&#34; title=&#34;logo GeoExt&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Hier a été lancé un &lt;a href=&#34;http://www.geoext.org/trac/geoext/wiki/CallParticipation&#34;&gt;appel à la participation&lt;/a&gt; pour le projet &lt;a href=&#34;https://www.geoext.org/&#34; title=&#34;GeoExt&#34;&gt;GeoExt&lt;/a&gt; dont la réflexion a été initiée lors du dernier [FOSS4G](http://con...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-11/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-11/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Appel à sponsoring - Code Sprint Open Layers</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Appel à sponsoring - Code Sprint Open Layers&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 16 décembre 2008&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Logo OpenLayers&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;En prévision de la sortie prochaine de la version 3.0 d&#39;OpenLayers un &lt;strong&gt;appel à sponsoring&lt;/strong&gt; est lancé.&lt;/p&gt;
+&lt;p&gt;Il permettra aux développeurs d&#39;OpenLayers basés dans le monde entier (Boston, Mexico, Denver...), de **retrouver la communauté franco...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-16/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Générer des tuiles avec PHP</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Générer des tuiles avec PHP&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 13 janvier 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; tuiles, PHP&lt;/p&gt;
+&lt;p&gt;En ces lendemains de fêtes, les nouveautés dans le monde de la géomatique, sont plutôt rares.&lt;/p&gt;
+&lt;p&gt;C&#39;est donc avec plaisir que nous vous annonçons la sortie de la version 0.2 de &lt;a href=&#34;http://www.geowebdeveloper.com/phpgeotiles/&#34;&gt;PHPGeoTiles&lt;/a&gt;. Similaire à &lt;a href=&#34;http://www.tilecache.org/&#34;&gt;TileCache&lt;/a&gt; (Python) ou &lt;a href=&#34;http://geowebcache.org/trac&#34;&gt;GeoWebCache&lt;/a&gt; (Java), PHPGeoTiles vous permettra de ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-13/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-13/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Android et OpenStreetMap</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Android et OpenStreetMap&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 14 janvier 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Android | OpenStreetMap&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo Android&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/android.jpg&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://code.google.com/android/&#34;&gt;&lt;strong&gt;Android&lt;/strong&gt;&lt;/a&gt; la nouvelle plateforme de Google pour téléphone portable propose depuis peu un nouveau service de navigation s&#39;appuyant sur les données d&#39;&lt;strong&gt;OpenStreetMap&lt;/strong&gt;. Ce service baptisé &lt;a href=&#34;http://www.andnav.org/&#34;&gt;AndNav2&lt;/a&gt; est disponible ac...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-14/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-14/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Liste des logiciels OpenSource disponible</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Liste des logiciels OpenSource disponibles&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 21 janvier 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo Open Source Initiative&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/opensource.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Le phénomène OpenSource a pris tant d&#39;importance qu&#39;il est parfois difficile de &lt;strong&gt;choisir le logiciel qui nous convient&lt;/strong&gt;. Lequel prendre en fonction de tel ou tel critère, ce logiciel sera-t-il adapté si je souhaite faire telle carte ou analyse ? Autant de ques...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Interview de David Jonglez, co-fondateur de Camptocamp</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Interview de David Jonglez, co-fondateur de Camptocamp&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 26 janvier 2009&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo camptocamp&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/entreprises_association/camptocamp.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;David Jonglez co-Fondateur de CampToCamp, dans &lt;a href=&#34;http://www.cedricmoullet.com/download/CamptocampDavidJonglez.pdf&#34;&gt;une interview&lt;/a&gt; accordée à la revue &lt;a href=&#34;http://www.geomag.fr/&#34;&gt;Géomatique Expert&lt;/a&gt;, fait un tour d&#39;horizon du marché géospatial et particulièremen...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Les plus grands mensonges à l&#39;encontre de l&#39;openSource</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Les plus grands mensonges à l&#39;encontre de l&#39;openSource&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 01 février 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo Open Source Initiative&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/opensource.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Petit clin d&#39;œil pour une fois avec ce billet plein d&#39;humour inspiré d&#39;un &lt;a href=&#34;http://gfoss.it/drupal/node/201&#34;&gt;blog&lt;/a&gt; sur lequel je suis tombé il y a quelques jours. Dans celui-ci étaient énumérées les plus grandes fausses vérités qu&#39;il est habituel d&#39;en...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-02-01/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-02-01/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-02-01/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Sortie de QGIS 1.0 - KORE</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Sortie de QGIS 1.0 - KORE&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 09 février 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo QGIS&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/qgis.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Sortie début janvier, la première version stable de QGIS (1.0) nommée &lt;strong&gt;KORE&lt;/strong&gt; est disponible pour la grande &lt;strong&gt;majorité des plateformes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;L&#39;histoire de ce logiciel débute en 2002, QGIS avait alors comme objectif de fournir sur Linux une interface permettant la consultation des do...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-02-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-02-09/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-02-09/</guid>
+      
+    </item>
+    
+    <item>
+      <title>GéoDjango LE framework cartographique de haut niveau</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;GéoDjango LE framework cartographique de haut niveau&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 03 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Picture_1_bigger.png&#34; src=&#34;https://cdn.geotribu.fr/img/tuto/Blog/Django/Picture_1_bigger.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Cette année et après avoir été bluffé par la quantité de programmes développés en &lt;strong&gt;Python&lt;/strong&gt; je me suis décidé à apprendre ce langage. Naturellement, au lieu de ré-inventer la roue j&#39;ai regardé les &lt;a href=&#34;https://fr.wikipedia.org/wiki/Framework&#34;&gt;frameworks&lt;/a&gt; existants. Je pense que ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-03/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-03/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Cartogaphier l&#39;immatériel</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Cartogaphier l&#39;immatériel&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 05 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;La géographie de par sa définition est une &#34;tentative d&#39;interprétation de l&#39;écriture de la surface de la Terre par les sociétés qui l&#39;occupent1&#34;. De cette première approche sont nés deux courants de pensées, &lt;strong&gt;l&#39;espace perçu1&lt;/strong&gt; et &lt;strong&gt;l&#39;espace vécu2&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Néanmoins, la géographie d&#39;aujourd&#39;hui a ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Explorer le format GeoRSS</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Explorer le format GeoRSS&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 18 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;georss-3.png&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/divers/worldRSS.png&#34;&gt;Si vous êtes comme moi parfois perdu au sein du vaste monde de la cartographie numérique et de sa multitude de formats, je vous conseille de consulter le site &lt;a href=&#34;http://www.geowebguru.com/&#34;&gt;GeoWeb Guru&lt;/a&gt; et notamment son dernier &lt;a href=&#34;http://www.geowebguru.com/articles/108-technical-overview-georss&#34;&gt;article sur le GeoRss&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Le pense bête d&#39;OpenLayers</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Le pense bête d&#39;OpenLayers&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 23 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Logo OpenLayers&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;C&#39;est en parcourant le site &lt;a href=&#34;http://www.neogeo-online.net/&#34;&gt;NeoGeo&lt;/a&gt; que je suis tombé sur &lt;a href=&#34;https://selectoid.wordpress.com/2009/03/19/finally-a-cheatsheet-for-openlayers-27/&#34;&gt;cette petite merveille&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Véritable récapitulatif d&#39;OpenLayers, Jansen a réussi l&#39;exploit de condenser sur une...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-23/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-23/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-23/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Geospatial Revolution Project, une introduction SIG en vidéo</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Geospatial Revolution Project, une introduction SIG en vidéo&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 24 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Geospatial Revolution Project&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;A l&#39;heure où la question &#34;&lt;strong&gt;où suis-je&lt;/strong&gt;&#34; devient aussi importante que &#34;&lt;strong&gt;qui suis-je&lt;/strong&gt;&#34;, il était important de replacer le SIG et les multiples applications qui découlent de cette technologie.&lt;/p&gt;
+&lt;p&gt;En effet, pour beaucoup de person...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Toulouse bientôt ville numérique ?</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Toulouse bientôt ville numérique ?&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 26 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Alors qu&#39;une grande partie du Net s&#39;oriente vers le concept de &lt;a href=&#34;https://fr.wikipedia.org/wiki/Monde_virtuel&#34;&gt;monde virtuel&lt;/a&gt;, monde où la réalité est déportée au sein d&#39;univers dont ni l&#39;espace ni le temps n&#39;ont d&#39;existence propre, une nouvelle tendance est en train de naître celle de...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Enfin une émission de qualité à la télévision !</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Enfin une émission de qualité à la télévision !&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 31 mars 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;bbc one&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/divers/bbc.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;En me baladant sur le blog &lt;a href=&#34;http://terrimago.blogspot.com/&#34;&gt;TerrImago&lt;/a&gt; je suis tombé sur une véritable &lt;a href=&#34;http://terrimago.blogspot.com/2009/03/britain-from-above-la-terre-vue-du-ciel.html&#34;&gt;perle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L&#39;émission &lt;a href=&#34;http://www.bbc.co.uk/britainfromabove/&#34;&gt;Britain from Above&lt;/a&gt; proposée pa...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-31/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-31/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-31/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Coup de flippe et réflexion sur l&#39;API Google Maps</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Coup de flippe et réflexion sur l&#39;API Google Maps&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 01 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;world absurde&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/absurde.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aujourd&#39;hui mercredi 1er avril - ça ne s&#39;invente pas :wink: - j&#39;ai eu la malencontreuse surprise de voir tous mes tutoriaux et projets &lt;a href=&#34;http://code.google.com/intl/fr/apis/maps/&#34;&gt;Google Maps&lt;/a&gt; ne plus répondre.&lt;/p&gt;
+&lt;p&gt;Voici l&#39;erreur que me fournissait &lt;a href=&#34;http://getfirebug.com/&#34;&gt;Firebug&lt;/a&gt; : `windo...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-01/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-01/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-01/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Good Planet, le site qui sent la chlorophyle</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Good Planet, le site qui sent la chlorophyle&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 02 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Good Planet&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Alors que la semaine du développement durable bat son plein, en bon géographe que nous sommes, nous ne pouvions laisser passer cette occasion sans vous présenter &lt;a href=&#34;http://www.goodplanet.org/&#34;&gt;goodplanet&lt;/a&gt;, un site (et association) résolument engagé.&lt;/p&gt;
+&lt;p&gt;Créé par Yan...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-02/</guid>
+      
+    </item>
+    
+    <item>
+      <title>OpenLayers en application et essor du monde de l&#39;OpenSource</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;OpenLayers en application et essor du monde de l&#39;OpenSource&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 14 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers | OpenSource&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Logo OpenLayers&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Alors que la sortie de la version 2.8 d&#39;OpenLayers s&#39;annonce imminente (plus que quelques jours dur dur d&#39;attendre, pour les impatients y&#39;a le SVN), il me parait intéressant d&#39;identifier quelques exemples de mise e...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-14/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-14/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>MSCompanion, l&#39;éditeur WYSIWYG de MapFile </title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;MSCompanion, l&#39;éditeur WYSIWYG de MapFile&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 16 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; MSCompanion | Mapfile | WYSIWYG | MapServer&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/mscompanion/&#34;&gt;MSCompanion&lt;/a&gt; est un &lt;strong&gt;éditeur WYSIWYG de mapfile&lt;/strong&gt; disponible pour Windows. Les fonctionnalités qu&#39;il propose screenshot à l&#39;appui sont des plus intéressantes. Vous pourrez en effet directemen...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-16/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>wheresthepath ou comment planifier un itinéraire</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;wheresthepath ou comment planifier un itinéraire&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 18 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers | Google Maps | wheresthepath&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wheresthepath.googlepages.com/wheresthepath.htm&#34;&gt;wheresthepath&lt;/a&gt; est une interface cartographique, mêlant habilement OpenLayers et Google Maps, dont le but est de pouvoir planifier un itinéraire ou alors d&#39;importer un fic...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>O3D, ou comment intégrer de la 3D dans votre navigateur grâce à Google</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;O3D, ou comment intégrer de la 3D dans votre navigateur grâce à Google&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 22 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Google | O3D&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Google vient juste de finaliser &lt;a href=&#34;http://code.google.com/apis/o3d/&#34;&gt;O3D&lt;/a&gt;, à la fois plugin (en C++) et &lt;a href=&#34;http://code.google.com/apis/o3d/docs/utilitylist.html&#34;&gt;API javascript&lt;/a&gt; permettant la création d&#39;environnement 3D au sein d&#39;un navig...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-22/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-22/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Pachube vers un recensement mondiale des capteurs?</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Pachube vers un recensement mondiale des capteurs?&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 26 avril 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Pachube&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }A l&#39;image de divers projets tels que &lt;a href=&#34;http://www.openstreetmap.fr/&#34;&gt;OpenStreetMap&lt;/a&gt; (OSM) et &lt;a href=&#34;http://www.openaerialmap.org/&#34;&gt;OpenAerialMap&lt;/a&gt;, &lt;a href=&#34;http://www.pachube.com/&#34;&gt;Pachube&lt;/a&gt; est une plateforme de partage de données ayant pour objectif de recenser et diffuser n...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-04-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-04-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Quand l&#39;OpenSource communautaire s&#39;invite à la maison blanche</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Quand l&#39;OpenSource communautaire s&#39;invite à la maison blanche&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 05 mai 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers | OpenStreetMap&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }Il est toujours plaisant de voir que les outils que l&#39;on utilise, que l&#39;on développe ou que l&#39;on soutient sont utilisés dans des projets globaux ou à envergure internationale. C&#39;est donc avec plaisir que j&#39;ai pris connaissance de l&#39;u...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-05-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-05-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Un annuaire orienté SIG</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Un annuaire orienté SIG&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 15 mai 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; annuaire&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;globe news&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Les initiatives et les travaux de synthèse liés à la géomatique fleurissent en ce moment sur le net. Le dernier en date? &lt;a href=&#34;http://annuairesig.org/&#34;&gt;L&#39;Annuaire SIG&lt;/a&gt;. Fruit d&#39;un travail commun entre le &lt;a href=&#34;http://www.forumsig.org/&#34;&gt;ForumSIG&lt;/a&gt;, &lt;a href=&#34;http://georezo.net/&#34;&gt;GéoRézo&lt;/a&gt; et [le Petit Bazar ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-05-15/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-05-15/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-15/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Mapnik, le moteur cartographique pour les perfectionnistes du graphisme</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Mapnik, le moteur cartographique pour les perfectionnistes du graphisme&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 19 mai 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; TileCache | Mapnik&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;mapnik-logo.png&#34; src=&#34;https://cdn.geotribu.fr/img/Blog/Mapnik/mapnik-logo.png&#34;&gt; J&#39;avoue avoir été longtemps frustré par la piètre qualité des images générées par &lt;a href=&#34;http://mapserver.org/&#34;&gt;MapServer&lt;/a&gt;. Difficile de laisser parler sa créativité cartographique quand le rendu n&#39;est pas à la hauteur de ses espérances. C&#39;est pourquoi je me su...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-05-19/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-05-19/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-19/</guid>
+      
+    </item>
+    
+    <item>
+      <title>A la découverte de Puzzle Gis</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;A la découverte de Puzzle Gis&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 24 mai 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Java | Open Source | SIG&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://cdn.geotribu.fr/img/tuto/puzzlegis/puzzlegis_avatar.gif&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;D&#39;habitude j&#39;utilise principalement QGis, sa souplesse d&#39;utilisation et ses fonctionnalités me conviennent parfaitement. Mais voilà, il y a quelques semaines, suite à une mise à jour de Fedora je me suis retrouvé avec un message d&#39;erreur : &#34;Segmentation Fault&#34; au lancement...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-05-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-05-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Le partage de l&#39;information publique vu par les Etats-unis</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Le partage de l&#39;information publique vu par les Etats-unis&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 25 mai 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; data | partage&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;world_flag_US.png&#34; src=&#34;https://cdn.geotribu.fr/img/Blog/world_flag_US.png&#34;&gt; Monsieur Obama (avec un grand &lt;strong&gt;M&lt;/strong&gt; svp) avait fait de la &lt;strong&gt;diffusion&lt;/strong&gt; et du &lt;strong&gt;partage&lt;/strong&gt; de l&#39;information publique une de ses &lt;strong&gt;priorités&lt;/strong&gt;. Le sujet avait d&#39;ailleurs été &lt;a href=&#34;http://geotribu.net/node/115&#34;&gt;brièvement abordé&lt;/a&gt; lors d&#39;un précédent billet dont l&#39;élément principal à...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-05-25/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-05-25/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>A la découverte d&#39;OpenJump</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;A la découverte d&#39;OpenJump&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 31 mai 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Java | Open Source | OpenJump | SIG&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo.png&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openjump.png&#34;&gt; Ce billet fait suite à la réflexion commencée lors de la présentation du logiciel &lt;a href=&#34;http://geotribu.net/node/117&#34;&gt;Puzzle-Gis&lt;/a&gt; dont le but est de découvrir et comparer l&#39;offre de logiciel SIG Open Source disponible. Nous allons cette fois aborder Open Jump. A l&#39;instar de [...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-05-31/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-05-31/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-31/</guid>
+      
+    </item>
+    
+    <item>
+      <title>PHP.JS ou vos fonctions PHP traduites en JavaScript</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;PHP.JS ou vos fonctions PHP traduites en JavaScript&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 02 juin 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; PHP | JS&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;phpjs.png&#34; src=&#34;https://cdn.geotribu.fr/img/Blog/phpJs/phpjs.png&#34;&gt; Passer d&#39;un langage à l&#39;autre est toujours contraignant, les syntaxes ou encore la manière de nommer les variables sont différentes, les fonctions que vous utilisez dans l&#39;un ne sont pas présentes dans l&#39;autre etc...&lt;/p&gt;
+&lt;p&gt;Ne serait-il pas alors agréable de disposer d&#39;une librairie regroupant la major...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-06-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-02/</guid>
+      
+    </item>
+    
+    <item>
+      <title>GeoServer bientôt en version 2.0</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;GeoServer bientôt en version 2.0&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 04 juin 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoServer | Open Source&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo.png&#34; src=&#34;https://cdn.geotribu.fr/img/Blog/geoserver/GeoServer_logo.png&#34;&gt;GeoServer est, comme son nom l&#39;indique, un serveur cartographique OpenSource sous licence GPL 2.0. Son développement initié par l&#39;association &#34; The Open Planning Project (TOPP)&#34; avait au départ pour objectif d&#39;offrir une suite d&#39;outils permettant de rendre la gestion de projets urbain plus...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-06-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Annonces en pagaille du côté de chez Google</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Annonces en pagaille du côté de chez Google&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 05 juin 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Google Maps | Google | io | data api | Flash | Android | challenge&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo.png&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/entreprises_association/google/google.webp&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Pas moins de six nouveautés nous concernant au plus haut point chez Google durant ce mois de mai et le début du mois de juin.&lt;br&gt;
+Entre le Where 2.0 et le Google IO, que de nouvelles choses ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-06-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>A la découverte d&#39;Udig</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;A la découverte d&#39;Udig&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 07 juin 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Open Source | SIG&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;udig_logo.png&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/uDig.png&#34;&gt;Nous continuons notre tour d&#39;horizon des logiciels SIG OpenSource en abordant cette fois-ci UDIG. Développé par &lt;a href=&#34;http://www.refractions.net/&#34;&gt;Refraction research&lt;/a&gt;, il est basé sur l&#39;IDE &lt;a href=&#34;http://www.eclipse.org/&#34;&gt;Eclipse&lt;/a&gt;. Ce dernier, bien que principalement utilisé dans le monde de la progra...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-06-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Un nouveau site pour GeoExt</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Un nouveau site pour GeoExt&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 18 juin 2009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoExt | JavaScript | Open Source | framework&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;logo GeoExt&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/geoext.png&#34; title=&#34;logo GeoExt&#34;&gt;{: .img-rdp-news-thumb } Il est vrai que l&#39;interface un peu austère du Trac méritait bien un petit coup de peinture. Ceci est chose faite avec l&#39;arrivée du &lt;a href=&#34;http://geoext.org/&#34;&gt;nouveau site de GeoExt&lt;/a&gt;. En plus du changement visuel, de nouvelles ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 13:05:14 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-06-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-18/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
