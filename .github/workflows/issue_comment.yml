@@ -31,6 +31,8 @@ jobs:
           template-path: .github/ISSUE_TEMPLATE/RDP_NEWS.yml
 
       - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
+      
+      - run: echo '${{ steps.issue-parser.outputs.jsonString.jaccepte }}' > rdp_news_submitted.json
 
       - name: Save build website as artifact
         uses: actions/upload-artifact@v2
