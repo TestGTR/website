@@ -19,7 +19,7 @@ jobs:
     steps:
 
       - name: Run Issue form parser
-        id: parse-pm
+        id: parsepm
         uses: peter-murray/issue-forms-body-parser@v2
         with:
           issue_id: ${{ github.event.issue.number }}
@@ -29,10 +29,10 @@ jobs:
 
       - name: Show parsed data JSON
         run: |
-          echo "${{ steps.parse.outputs.payload }}"
+          echo "${{ steps.parsepm.outputs.payload }}"
 
       - name: Issue Forms Body Parser
-        id: parse-zt
+        id: parsezt
         uses: zentered/issue-forms-body-parser@1.0.0
 
-      - run: echo "${{ JSON.stringify(steps.parse.outputs.data) }}"
+      - run: echo "${{ JSON.stringify(steps.parsezt.outputs.data) }}"
