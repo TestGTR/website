@@ -33,7 +33,7 @@ jobs:
 
       - name: GitHub Issue Forms Body Parser
         id: parsezt
-        uses: zentered/issue-forms-body-parser@v1.0.2
+        uses: zentered/issue-forms-body-parser@master
 
 
       - run: echo "${{ steps.parsezt.outputs.data }}"
