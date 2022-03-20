@@ -18,11 +18,11 @@ jobs:
 
     steps:
 
-      - name: GitHub Issue Forms Body Parser
-        id: parse
-        uses: zentered/issue-forms-body-parser@main
+#      - name: GitHub Issue Forms Body Parser
+#        id: parse
+#        uses: zentered/issue-forms-body-parser@main
 
-      - run: echo "${{ steps.parse.outputs.data }}"
+#      - run: echo "${{ steps.parse.outputs.data }}"
 
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
