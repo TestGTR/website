@@ -31,8 +31,9 @@ jobs:
         run: |
           echo "${{ steps.parsepm.outputs.payload }}"
 
-      - name: Issue Forms Body Parser
+      - name: GitHub Issue Forms Body Parser
         id: parsezt
-        uses: zentered/issue-forms-body-parser@1.1
+        uses: zentered/issue-forms-body-parser@v1.0.2
+
 
       - run: echo "${{ steps.parsezt.outputs.data }}"
