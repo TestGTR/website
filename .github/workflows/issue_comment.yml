@@ -35,4 +35,4 @@ jobs:
         id: parsezt
         uses: zentered/issue-forms-body-parser@1.0.0
 
-      - run: echo "${{ JSON.stringify(steps.parsezt.outputs.data) }}"
+      - run: echo "${{ steps.parsezt.outputs.data }}"
