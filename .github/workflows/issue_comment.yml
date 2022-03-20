@@ -23,3 +23,10 @@ jobs:
         uses: zentered/issue-forms-body-parser@main
 
       - run: echo "${{ steps.parse.outputs.data }}"
+
+      - uses: stefanbuck/github-issue-parser@v2
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/RDP_NEWS.yml
+
+      - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > bug-details.json
