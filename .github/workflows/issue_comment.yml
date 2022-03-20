@@ -17,6 +17,7 @@ jobs:
       issues: write
 
     steps:
+      - uses: actions/checkout@v2
 
 #      - name: GitHub Issue Forms Body Parser
 #        id: parse
