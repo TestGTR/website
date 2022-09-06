@@ -1,8 +1,3 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
 name: "Issues auto-comment"
 on:
   issues:
@@ -10,7 +5,7 @@ on:
       - reopened
       - opened
 jobs:
-  label_issues:
+  rdp_form:
     runs-on: ubuntu-latest
 
     permissions:
@@ -19,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Check issue label
+        run: echo ${{ github.event.issue.labels }}
 
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
