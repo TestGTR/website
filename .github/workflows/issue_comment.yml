@@ -17,20 +17,12 @@ jobs:
       issues: write
 
     steps:
-      - name: GitHub Issue Forms Body Parser
-        id: parse
-        uses: zentered/issue-forms-body-parser@v1.4.5
-
-      - run: echo '${{ steps.parse.outputs.data }}' > rdp_form_body_parser.json
-
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
         with:
           template-path: .github/ISSUE_TEMPLATE/RDP_NEWS.yml
 
       - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
-      
-      - run: echo '${{ steps.issue-parser.outputs.jsonString.jaccepte }}' > rdp_news_submitted_jaccepte.json
 
       - name: Save comment artifact
         uses: actions/upload-artifact@v3.1.0
