@@ -21,6 +21,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           cache: "pip"
+          python-version: 3.9
 
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
@@ -32,5 +33,5 @@ jobs:
       - name: Save comment artifact
         uses: actions/upload-artifact@v3.1.0
         with:
-          path: "*.json"
+          path: "rdp*.json"
           retention-days: 15
