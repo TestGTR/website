@@ -17,11 +17,9 @@ jobs:
       issues: write
 
     steps:
-      - uses: actions/checkout@v3
-
       - name: GitHub Issue Forms Body Parser
         id: parse
-        uses: zentered/issue-forms-body-parser@v1.4
+        uses: zentered/issue-forms-body-parser@v1.4.5
 
       - run: echo "${{ steps.parse.outputs.data }}"
 
