@@ -17,13 +17,13 @@ jobs:
       issues: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-#      - name: GitHub Issue Forms Body Parser
-#        id: parse
-#        uses: zentered/issue-forms-body-parser@main
+      - name: GitHub Issue Forms Body Parser
+        id: parse
+        uses: zentered/issue-forms-body-parser@1.4
 
-#      - run: echo "${{ steps.parse.outputs.data }}"
+      - run: echo "${{ steps.parse.outputs.data }}"
 
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
@@ -32,9 +32,9 @@ jobs:
 
       - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
       
-      - run: echo '${{ steps.issue-parser.outputs.jsonString.jaccepte }}' > rdp_news_submitted.json
+      - run: echo '${{ steps.issue-parser.outputs.jsonString.jaccepte }}' > rdp_news_submitted_jaccepte.json
 
-      - name: Save build website as artifact
+      - name: Save comment artifact
         uses: actions/upload-artifact@v2
         with:
           path: rdp_news_submitted.json
