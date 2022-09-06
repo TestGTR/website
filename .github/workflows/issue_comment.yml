@@ -35,7 +35,7 @@ jobs:
       - run: echo '${{ steps.issue-parser.outputs.jsonString.jaccepte }}' > rdp_news_submitted.json
 
       - name: Save build website as artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           path: rdp_news_submitted.json
           retention-days: 15
