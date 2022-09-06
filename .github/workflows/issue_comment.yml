@@ -1,4 +1,4 @@
-name: "Issues auto-comment"
+name: "Issues form auto-comment"
 on:
   issues:
     types:
@@ -6,6 +6,7 @@ on:
       - opened
 jobs:
   rdp_form:
+    name: "📰 Proposition de news"
     runs-on: ubuntu-latest
     if: contains( github.event.issue.labels.*.name, 'rdp')
 
@@ -15,6 +16,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          cache: "pip"
 
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
