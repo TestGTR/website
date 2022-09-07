@@ -1,0 +1,21 @@
+Merci pour cette proposition de news !
+
+## Contenu de la news consolidé
+
+```markdown
+### {{ in_news_title }}
+
+![]({{ in_news_icon }}){: .img-rdp-news-thumb loading=lazy }
+
+{{ tx_news_content}}
+
+!!! info "Contribution externe"
+    Cette news est proposée par {{ in_author_name }} via [le formulaire GitHub renouvelé](https://github.com/geotribu/website/issues/new?assignees=Guts&labels=contribution+externe%2Crdp%2Ctriage&template=RDP_NEWS.yml) : [voir le ticket](https://github.com/geotribu/website/issues/{{ issue_id }}). Merci !
+```
+
+## Ajouter cette news à la RDP
+
+
+```sh
+git commit --author="{{ in_author_name }} <{{ in_author_mail }}>" --message="Ajout news {{ in_news_title }} par @{{ issue_author }}. Close #{{ issue_id }}"
+```
