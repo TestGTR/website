@@ -7,9 +7,7 @@ Ceci est un message automatique pour faciliter l'intégration de la news dans la
 A ajouter dans l'en-tête :
 
 ```yaml
-{% for tag in in_news_tags %}
-- {{ tag }}
-{% endfor %}
+{% for tag in in_news_tags %}- {{ tag }}{% endfor %}
 ```
 
 ```markdown
@@ -29,9 +27,9 @@ A ajouter dans l'en-tête :
 
 > Volet réservé à un ayant-droit de commit sur le dépôt
 
+- [ ] tenir compte de l'éventuel commentaire libre
 - [ ] téléverser l'eventuelle illustration sur le CDN et l'intégrer dans le corps du texte
-- [ ] tenir compte du commentaire libre
-- [ ]
+- [ ] peaufiner la description et le texte de remplacement de la vignette
 
 Commande Git pour garantir l'attribution :
 
