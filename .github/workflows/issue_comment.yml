@@ -31,7 +31,7 @@ jobs:
 
       - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
 
-      - name: Save comment artifact
+      - name: Save form artifact
         uses: actions/upload-artifact@v3.1.0
         with:
           path: "rdp*.json"
@@ -48,3 +48,9 @@ jobs:
           ISSUE_AUTHOR: Mona
           ISSUE_ID: 11111
         run: python scripts/issue_comment_templater_rdp.py 
+
+      - name: Save comment artifact
+        uses: actions/upload-artifact@v3.1.0
+        with:
+          path: "rdp*_output.md"
+          retention-days: 15
