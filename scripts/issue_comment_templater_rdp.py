@@ -1,5 +1,6 @@
 # standard
 import json
+import logging
 from os import getenv
 from pathlib import Path
 
@@ -21,6 +22,26 @@ data["issue_id"] = getenv("ISSUE_ID", "99999")
 # handle legacy form keys id (- not supported)
 new_keys=[k.replace("-", "_") for k in data.keys()]
 data = dict(zip(new_keys, data.values()))
+
+# ensure image description and replacement text
+img_thumbnail_url = data.get("in_news_icon")
+if img_thumbnail_url.startswith("http"):
+    try:
+        img_thumbnail_path = Path(img_thumbnail_url)
+        img_thumbnail_name = img_thumbnail_path.stem
+        img_description = f"vignette {img_thumbnail_name}"
+    except Exception as exc:
+        logging.error(f"Failed to extract image name from URL: {img_thumbnail_url}. Trace: {exc}")
+        img_description = "vignette news"
+else:
+    img_description = data.get("in_news_icon")
+data["in_icon_description"] = img_description
+
+# improve tags
+if isinstance(data.get("in_news_tags"), str) and len(data.get("in_news_tags")):
+    data["in_news_tags"] = sorted(data.get("in_news_tags").split(","))
+else:
+    data["in_news_tags"] = []
 
 # fill the comment template
 env = Environment(

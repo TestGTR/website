@@ -1,11 +1,23 @@
-Merci pour cette proposition de news !
+Merci pour cette proposition de news @{{ issue_author }} !
+
+Ceci est un message automatique pour faciliter l'intégration de la news dans la revue de presse par l'équipe Geotribu.
 
 ## Contenu de la news consolidé
 
+A ajouter dans l'en-tête :
+
+```yaml
+{% for tag in in_news_tags %}
+- tag
+{% endfor %}
+```
+
 ```markdown
+## {{ dr_news_category }}
+
 ### {{ in_news_title }}
 
-![]({{ in_news_icon }}){: .img-rdp-news-thumb loading=lazy }
+![{{ in_icon_description }}]({{ in_news_icon }} "{{ in_icon_description }}"){: .img-rdp-news-thumb loading=lazy }
 
 {{ tx_news_content}}
 
@@ -15,6 +27,13 @@ Merci pour cette proposition de news !
 
 ## Ajouter cette news à la RDP
 
+> Volet réservé à un ayant-droit de commit sur le dépôt
+
+- [ ] téléverser l'eventuelle illustration sur le CDN et l'intégrer dans le corps du texte
+- [ ] tenir compte du commentaire libre
+- [ ]
+
+Commande Git pour garantir l'attribution :
 
 ```sh
 git commit --author="{{ in_author_name }} <{{ in_author_mail }}>" --message="Ajout news {{ in_news_title }} par @{{ issue_author }}. Close #{{ issue_id }}"
