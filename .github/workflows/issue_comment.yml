@@ -46,7 +46,7 @@ jobs:
       - name: Fill comment template with form
         env:
           ISSUE_AUTHOR: Mona
-          ISSUE_ID: 11111
+          ISSUE_ID: ${{ github.event.issue.id }}
         run: python scripts/issue_comment_templater_rdp.py 
 
       - name: Save comment artifact
