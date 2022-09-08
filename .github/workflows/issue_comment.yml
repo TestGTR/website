@@ -31,9 +31,8 @@ jobs:
 
       - name: echo json
         run: |
-          ls ${env.USERPROFILE || env.HOME}/
           JSON=`echo '${{ steps.issue-parser.outputs.jsonString }}'`
-          echo $JSON
+          echo $JSON > rdp_hop.json
 
       - name: readJSON string
         run: python scripts/json_reader.py ${{ steps.issue-parser.outputs.jsonString }}
