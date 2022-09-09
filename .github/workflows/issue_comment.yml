@@ -29,13 +29,8 @@ jobs:
         with:
           template-path: .github/ISSUE_TEMPLATE/RDP_NEWS.yml
 
-      - name: echo json
-        run: |
-          JSON=`echo '${{ steps.issue-parser.outputs.jsonString }}'`
-          echo $JSON > rdp_hop.json
-
-      - name: readJSON string
-        run: python scripts/json_reader.py ${{ steps.issue-parser.outputs.jsonString }}
+      - name: Export into JSON file
+        run: echo $(printf %q "${{ steps.issue-parser.outputs.jsonString }}") > rdp_news_submitted.json
 
       - name: Save form artifact
         uses: actions/upload-artifact@v3.1.0
