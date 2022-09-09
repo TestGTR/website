@@ -32,8 +32,8 @@ jobs:
       # - name: Export into JSON file - echo - fail
       #   run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
 
-      - name: Export into JSON file - echo printf - fail
-        run: echo '$(printf %q "${{ steps.issue-parser.outputs.jsonString }}")' > rdp_news_submitted.json
+      # - name: Export into JSON file - echo printf - fail
+        # run: echo '$(printf %q "${{ steps.issue-parser.outputs.jsonString }}")' > rdp_news_submitted.json
 
       - name: Export into JSON file - Python - fail
         run: python scripts/json_reader.py ${{ steps.issue-parser.outputs.jsonString }}
