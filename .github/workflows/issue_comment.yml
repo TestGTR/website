@@ -28,9 +28,15 @@ jobs:
         id: issue-parser
         with:
           template-path: .github/ISSUE_TEMPLATE/RDP_NEWS.yml
+      
+      # - name: Export into JSON file - echo - fail
+      #   run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
 
-      - name: Export into JSON file
-        run: echo $(printf %q "${{ steps.issue-parser.outputs.jsonString }}") > rdp_news_submitted.json
+      - name: Export into JSON file - echo printf - fail
+        run: echo '$(printf %q "${{ steps.issue-parser.outputs.jsonString }}")' > rdp_news_submitted.json
+
+      - name: Export into JSON file - Python - fail
+        run: python scripts/json_reader.py ${{ steps.issue-parser.outputs.jsonString }}
 
       - name: Save form artifact
         uses: actions/upload-artifact@v3.1.0
