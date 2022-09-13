@@ -29,6 +29,11 @@ jobs:
         with:
           template-path: .github/ISSUE_TEMPLATE/RDP_NEWS.yml
       
+      - name: Export into JSON file using env var
+        run: echo $JSON_STRING > rdp_news_submitted.json
+        env:
+          JSON_STRING: ${{ steps.issue-parser.outputs.jsonString }}
+
       # - name: Export into JSON file - echo - fail
       #   run: echo '${{ steps.issue-parser.outputs.jsonString }}' > rdp_news_submitted.json
 
